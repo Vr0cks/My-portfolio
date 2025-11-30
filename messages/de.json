@@ -1,0 +1,91 @@
+{
+  "HomePage": {
+    "hero": {
+      "status": "Offen für Projekte",
+      "role": "Softwareentwickler",
+      "education": "MIS-Student an der THK Universität",
+      "description": "Keine Phrasen, nur Code. Ich löse Probleme mit sauberer Architektur – funktionierende Systeme statt technischer Schulden.",
+      "cta_projects": "Meine Projekte",
+      "cta_resume": "Lebenslauf laden"
+    },
+    "developer_card": {
+      "role_val": "Full Stack Developer",
+      "status_val": "Entwickelt..."
+    },
+    "about": {
+      "title": "Entwicklungsansatz",
+      "text": "Als MIS-Student habe ich den Blick für das 'Große Ganze'. Ich schreibe nicht nur Funktionen, sondern entwerfe nahtlose Abläufe von der Datenbank bis zum UI, bei denen Geschäftslogik auf technische Exzellenz trifft.",
+      "read_more": "Mehr lesen"
+    },
+    "hobbies": {
+      "title": "Offline-Modus",
+      "subtitle": "Teilzeit-Gamer, Vollzeit-Dev."
+    },
+    "projects": {
+      "title": "Ausgewählte Werke",
+      "live_demo": "Live Demo",
+      "architecture": "Architektur",
+      "github_repo": "GitHub Repo",
+      "review_code": "Code ansehen",
+      "visit": "Seite besuchen"
+    },
+    "philosophy": {
+      "analyze": {
+        "title": "Erst Analysieren",
+        "text": "Ich greife zum Stift, bevor ich die Tastatur berühre. Coden ohne das Problem zu verstehen, erzeugt nur Bugs."
+      },
+      "clean": {
+        "title": "Clean Code",
+        "text": "Ich respektiere den nächsten Entwickler. Kein Spaghetti-Code, nur modulare, lesbare und skalierbare Strukturen."
+      },
+      "optimize": {
+        "title": "Optimierung",
+        "text": "Funktionieren reicht nicht, es muss fliegen. Ich eliminiere rücksichtslos unnötige Abfragen und Re-Renders."
+      }
+    },
+    "project_desc": {
+      "vrocks": "Vintage-Ästhetik trifft moderne Technik. Schnell, nostalgisch, aber leistungsstark unter der Haube.",
+      "united": "Eine moderne Webplattform für Fenerbahçe-Fans, die Event-Tracking, Mitgliedermanagement und Community-Interaktion bietet."
+    }
+  },
+  "Chatbot": {
+    "welcome": "Hallo! Ich bin 'Terminal'. Tippen Sie 'hilfe', um zu beginnen.",
+    "fallback": "Entschuldigung, Befehl nicht erkannt. Tippen Sie 'hilfe' für eine Liste.",
+    "typing": "// Terminal berechnet...",
+    "placeholder": "Tippen Sie 'hilfe'...",
+    "data": [
+      {
+        "keywords": ["hallo", "hi", "hey", "guten tag"],
+        "response": "Hallo! Ich bin Terminal. Yiğit codet gerade. Ich bin hier, um Fragen zu beantworten. Tippen Sie 'hilfe', um zu beginnen."
+      },
+      {
+        "keywords": ["skills", "stack", "tech", "technologie"],
+        "response": "Technisch setze ich auf Next.js 14, TypeScript und Tailwind CSS. Meine Stärke liegt in sauberen und skalierbaren Architekturen."
+      },
+      {
+        "keywords": ["warum du", "einstellung", "job", "unterschied"],
+        "response": "Der Unterschied: Ich schreibe nicht nur Code. Dank meines MIS-Hintergrunds analysiere ich den geschäftlichen Wert jeder Zeile. Ich verbinde Technik mit Business-Intelligenz."
+      },
+      {
+        "keywords": ["ausbildung", "studium", "uni", "mis"],
+        "response": "Ich studiere Wirtschaftsinformatik (MIS) an der THK Universität. Diese Ausbildung erlaubt es mir, Probleme nicht nur technisch, sondern auch analytisch zu lösen."
+      },
+      {
+        "keywords": ["hobby", "sport", "persönlich", "fussball"],
+        "response": "Abseits vom Code: 14 Jahre Pfadfinder, 8 Jahre Torwart und American Football. Teamplayer zu sein ist für mich kein Klischee, sondern ein Lebensstil."
+      },
+      {
+        "keywords": ["hilfe", "help", "frage"],
+        "response": "Fragen Sie nach: 'tech', 'studium', 'hobby', 'warum du' oder 'kontakt'."
+      },
+      {
+        "keywords": ["geheimnis", "secret", "versteckt", "easter egg"],
+        "response": "Pst. Es gibt eine Hintertür im System. Versuch den Pfad '/secret' im Browser. Aber das Passwort hast du nicht von mir: 'hell yeah'."
+      }
+    ]
+  },
+  "SecretHint": {
+    "message": "👀 Pst! Es ist ruhig hier. Versuch mal, 'secret' in den Chatbot zu tippen.",
+    "button": "Verstanden"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "HomePage": {
+    "hero": {
+      "status": "Open to Work",
+      "role": "Software Developer",
+      "education": "MIS Student at THK University",
+      "description": "No buzzwords, just code. I solve complex problems with clean architectures and leave behind systems that actually work, not technical debt.",
+      "cta_projects": "See My Work",
+      "cta_resume": "Download CV"
+    },
+    "developer_card": {
+      "role_val": "Full Stack Developer",
+      "status_val": "Building..."
+    },
+    "about": {
+      "title": "Developer Approach",
+      "text": "Being an MIS student gave me the 'Big Picture' mindset. I don't just write functions; I design seamless flows from the database to the UI, ensuring business logic meets technical excellence.",
+      "read_more": "Read More"
+    },
+    "hobbies": {
+      "title": "Offline Mode",
+      "subtitle": "Part-time Gamer, Full-time Dev."
+    },
+    "projects": {
+      "title": "Selected Works",
+      "live_demo": "Live Demo",
+      "architecture": "Architecture",
+      "github_repo": "GitHub Repo",
+      "review_code": "Review Code",
+      "visit": "Visit Site"
+    },
+    "philosophy": {
+      "analyze": {
+        "title": "Analyze First",
+        "text": "I grab a pen before I touch the keyboard. Coding without understanding the problem is just generating bugs."
+      },
+      "clean": {
+        "title": "Clean Architecture",
+        "text": "I respect the next developer. No spaghetti code, just modular, readable, and scalable structures."
+      },
+      "optimize": {
+        "title": "Optimization",
+        "text": "Working isn't enough; it must fly. I ruthlessly eliminate unnecessary queries and re-renders."
+      }
+    },
+    "project_desc": {
+      "vrocks": "Vintage aesthetics meets modern tech. Fast, nostalgic, but powerful under the hood.",
+      "united": "A modern web platform for Fenerbahçe fans providing event tracking, membership management, and community interaction."
+    }
+  },
+  "Chatbot": {
+    "welcome": "Hello! I'm 'Terminal', the digital assistant. Type 'help' to start or ask me anything.",
+    "fallback": "Sorry, command not recognized. Please type 'help' to see available commands.",
+    "typing": "// Terminal is computing...",
+    "placeholder": "Type 'help'...",
+    "data": [
+      {
+        "keywords": ["hello", "hi", "hey", "greetings"],
+        "response": "Hello! I'm Terminal. Yiğit is currently coding. I'm here to answer your questions. Type 'help' to get started."
+      },
+      {
+        "keywords": ["skills", "stack", "tech", "framework", "languages"],
+        "response": "On the technical side, I invest in Next.js 14, TypeScript, and Tailwind CSS. My main strength is building clean, readable, and scalable architectures."
+      },
+      {
+        "keywords": ["why you", "hire", "hr", "difference"],
+        "response": "Here's the difference: I don't just write code. Thanks to my MIS background, I analyze the business value of every line I write. I merge technical skills with business intelligence."
+      },
+      {
+        "keywords": ["education", "school", "mis", "university"],
+        "response": "I study Management Information Systems (MIS) at THK University. This interdisciplinary education allows me to solve problems not just technically, but analytically."
+      },
+      {
+        "keywords": ["hobby", "sports", "personal", "football", "gamer"],
+        "response": "Beyond code: 14 years of scouting, 8 years as a goalkeeper, and I play American Football. Being a team player isn't a cliché for me, it's a lifestyle."
+      },
+      {
+        "keywords": ["help", "commands", "question"],
+        "response": "You can ask about: 'tech', 'education', 'hobbies', 'why you', or 'contact'."
+      },
+      {
+        "keywords": ["secret", "hidden", "easter egg", "mystery"],
+        "response": "Shhh. There is a back door in the system. Try the '/secret' path in your browser. But you didn't hear the password from me: 'hell yeah'."
+      }
+    ]
+  },
+  "SecretHint": {
+    "message": "👀 Psst! It's quiet here. Try typing 'secret' into the chatbot.",
+    "button": "Got it"
+  }
+}
