@@ -83,9 +83,22 @@
         "response": "Şşşt. Sistemde arka bir kapı var. Tarayıcıda '/secret' yolunu dene. Ama şifreyi benden duymadın: 'hell yeah'."
       }
     ]
-  },
+  }, 
   "SecretHint": {
     "message": "👀 Psst! Çok sessiz buralar. Chatbot'a 'secret' yazmayı denesene?",
     "button": "Tamam"
+  },
+  "AboutPage": {
+    "title": "Kodun Arkasındaki Hikaye",
+    "intro": "Merhaba, ben Yiğit. Yazılım geliştirmeyi sadece teknik bir iş olarak değil, karmaşık problemleri çözme sanatı olarak görüyorum. MIS eğitimim, bana kodu işletme hedefleriyle hizalama yeteneği kazandırdı.",
+    "education": {
+      "title": "Eğitim & Akademi",
+      "desc": "Yönetim Bilişim Sistemleri, teknoloji ve işletme arasındaki o kritik köprüdür. Burada sadece yazılım dillerini değil; sistem analizini, veritabanı yönetimini ve proje süreçlerini (Agile/Scrum) öğreniyorum."
+    },
+    "vision": {
+      "title": "Vizyon",
+      "clean_code": "Kod sadece makine için değil, insanlar için de yazılır. Okunabilirlik ve sürdürülebilirlik önceliğimdir.",
+      "learning": "Teknoloji durmaz, ben de durmam. Her gün yeni bir şeyler öğrenmek, bu mesleğin en güzel yanı."
+    }
   }
 }

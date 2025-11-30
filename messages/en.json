@@ -87,5 +87,18 @@
   "SecretHint": {
     "message": "👀 Psst! It's quiet here. Try typing 'secret' into the chatbot.",
     "button": "Got it"
+  },
+  "AboutPage": {
+    "title": "The Story Behind the Code",
+    "intro": "Hello, I'm Yiğit. I view software development not just as a technical task, but as the art of solving complex problems. My MIS background empowers me to align code with business goals effectively.",
+    "education": {
+      "title": "Education & Academy",
+      "desc": "Management Information Systems is the critical bridge between tech and business. Here, I learn not just syntax, but system analysis, database management, and agile project processes."
+    },
+    "vision": {
+      "title": "Vision",
+      "clean_code": "Code is written for humans, not just machines. Readability and maintainability are my top priorities.",
+      "learning": "Tech never stops, and neither do I. Learning something new every day is the best part of this job."
+    }
   }
 }

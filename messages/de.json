@@ -87,5 +87,18 @@
   "SecretHint": {
     "message": "👀 Pst! Es ist ruhig hier. Versuch mal, 'secret' in den Chatbot zu tippen.",
     "button": "Verstanden"
+  },
+  "AboutPage": {
+    "title": "Die Geschichte hinter dem Code",
+    "intro": "Hallo, ich bin Yiğit. Softwareentwicklung ist für mich mehr als Technik – es ist die Kunst, komplexe Probleme zu lösen. Mein MIS-Hintergrund hilft mir, Code mit geschäftlichen Zielen in Einklang zu bringen.",
+    "education": {
+      "title": "Ausbildung & Akademie",
+      "desc": "Wirtschaftsinformatik ist die Brücke zwischen Technik und Business. Hier lerne ich nicht nur Syntax, sondern Systemanalyse, Datenbankmanagement und agile Prozesse."
+    },
+    "vision": {
+      "title": "Vision",
+      "clean_code": "Code wird für Menschen geschrieben, nicht nur für Maschinen. Lesbarkeit und Wartbarkeit haben Vorrang.",
+      "learning": "Technologie steht nie still, ich auch nicht. Jeden Tag etwas Neues zu lernen, ist das Beste an diesem Job."
+    }
   }
 }
